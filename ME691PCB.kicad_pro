@@ -685,24 +685,15 @@
         "filename": "ME691PCB.kicad_sch",
         "name": "Root",
         "uuid": "53e09712-b703-41e6-bf13-ed0b989e6df8"
-      },
-      {
-        "filename": "camera.kicad_sch",
-        "name": "Camera",
-        "uuid": "fe531225-21be-4c19-89a5-618807dec3c3"
       }
     ],
-    "used_designators": "U1,DS1,#PWR1-16,D1-4,B1-3,J1,R1-4,SW1-2",
+    "used_designators": "U1-2,DS1,#PWR1-26,D1-8,B1-6,J1-2,R1-8,SW1-4",
     "variants": []
   },
   "sheets": [
     [
       "53e09712-b703-41e6-bf13-ed0b989e6df8",
       "Root"
-    ],
-    [
-      "fe531225-21be-4c19-89a5-618807dec3c3",
-      "Camera"
     ]
   ],
   "text_variables": {},
